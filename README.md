@@ -40,7 +40,7 @@ make install
 make run
 ```
 
-q<h1 align="center"><code>FluxyCrown Tools</code></h1>
+q<h1 align="center"><code>KONTRIBUTOR</code></h1>
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
