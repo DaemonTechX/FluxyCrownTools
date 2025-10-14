@@ -47,8 +47,8 @@ tutor:
 	@echo "██████╔╝██║░░██║██║░╚███║██╔╝╚██╗░░░██║░░░"
 	@echo "╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░"
 	@echo
-	@termux-open "https://www.youtube.com/@DanxyOfficial"
-	@echo "[ INFO ]tutorialnya: https://www.youtube.com/@DanxyOfficial"
+	@termux-open "https://www.youtube.com/@ByexeOfficial"
+	@echo "[ INFO ]tutorialnya: https://www.youtube.com/@ByexeOfficial"
 run:
 	@clear
 	@echo "██████╗░░█████╗░███╗░░██╗██╗░░██╗██╗░░░██╗"
