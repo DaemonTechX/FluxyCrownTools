@@ -60,4 +60,4 @@ run:
 	@echo
 	@echo "[ ! ] RUNING OTW JADI HACKER PROSES RUNING 2 - 5 MENIT [ ! ]"; \
         git pull
-		bash OtakLuCuman1MBya.sh
+		bash Danxy_Dick.sh
