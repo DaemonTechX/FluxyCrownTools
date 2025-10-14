@@ -31,7 +31,7 @@ git clone https://github.com/DaemonTechX/FluxyCrownTools
 
 `Masuk Folder`
 ```bash
-cd Danxy
+cd FluxyCrownTools
 make install
 ```
 
